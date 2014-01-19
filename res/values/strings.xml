@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Postavke</string>
+    <string name="title_activity_izbornik">iNaruči</string>
+    <string name="title_activity_izbor">iNaruči</string>
+    <string name="skeniranje">Postavite mobitel iznad QR koda</string>
+    <string name="ime_aplikacije">iNaruči</string>
+    <string name="iNaruci">iNaruči</string>
+    <string name="dobrodosli">Dobrodošli u novi svijet naručivanja!</string>
+    <string name="naruci">Naruči</string>
+    <string name="pozoviOsoblje">Pozovi osoblje</string>
+    <string name="skeniraj">Skeniraj</string>
+	<string name="favoriti">Favoriti</string>
+	<string name="toplapica">Topla pića</string>
+	<string name="hladnapica">Hladna pića</string>
+	<string name="zestokapica">Žestoka pića</string>
+</resources>
